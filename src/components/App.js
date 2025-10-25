@@ -3,6 +3,9 @@ import React from "react";
 import './../styles/App.css';
 import { BrowserRouter,Routes, Route } from "react-router-dom";
 import Homepage from "./Homepage";
+import Item1 from "./Item1";
+import Item2 from "./Item2";
+import Item3 from "./Item3";
 
 const App = () => {
   return (
